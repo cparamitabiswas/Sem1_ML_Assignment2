@@ -34,7 +34,7 @@ education, nursing, journalism, management, social service, technologies).
 
 ## c. GitHub Repository Link
 
-`https://github.com/<your-github-username>/<your-repo-name>` — replace once pushed.
+<https://github.com/cparamitabiswas/Sem1_ML_Assignment2>
 
 ## d. Models Used
 
